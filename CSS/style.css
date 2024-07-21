@@ -1,0 +1,528 @@
+*{
+margin:0;
+padding:0;
+text-decoration:none;
+
+}
+/*navbar starts here*/
+.main{
+	background-color:black;
+	display:flex;
+	text-decoration:none;
+	Opacity:0.9;
+}
+.logo>img{
+	width:150px;
+	height:100px;
+	padding-left:50px;
+	padding-top:10px;
+}
+.navbar{
+	display:flex;
+}
+
+.nav-list>ul{
+	text-decoration:none;
+	list-style:none;
+	display:flex;
+	color:white;
+	padding-left:500px;
+}
+.nav-list>li{
+	text-decoration:none;
+	list-style:none;
+	display:flex;
+	color:white;
+}
+.nav-list>ul>li>a{
+	display:flex;
+text-decoration:none;
+	list-style:none;
+	color:white;
+	font-family:poppins,sans-serif;
+	padding:50px 5px 5px 5px;
+	margin-left:20px;
+}
+.nav-list>ul>li>a:hover
+{
+	display:flex;
+text-decoration:none;
+	list-style:none;
+	color:orange;
+	font-family:poppins,sans-serif;
+	padding:50px 5px 5px 5px;
+	margin-left:20px;
+}
+
+
+.nav-list>ul>li>i{
+	padding:50px 5px 50px 5px;
+	margin-left:30px;
+}
+/*navbar ends here*/
+
+/*part1*/
+.banner{
+	background-image:url(https://kit.baliniz.com/stonegate/wp-content/uploads/sites/49/2022/11/band-photo-shoot-1-e1670428354523.jpg);
+	width:100%;
+height:100vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+box-sizing: border-box;
+
+}
+.text{
+	color:white;
+	padding-left:100px;
+	padding-top:400px;
+	font-size:60px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+i{
+	color:white;
+}
+.text1,.text2{
+	background-color:black;
+	margin-left:750px;
+	margin-right:100px;
+	color:white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.text1{
+	padding-left:300px;
+	padding-top:50px;
+	font-size:20px;
+}
+.text2{
+	padding-bottom:50px;
+		padding-left:300px;
+			padding-top:20px;
+	font-size:14px;
+	Opacity:80%;
+}
+.image{
+	margin-top:-200px;
+	margin-left:770px;
+}
+
+/*part2*/
+.banner1{
+	display:flex;
+	background-color:black;
+}
+.sign{
+	width:150px;
+	height:60px;
+	margin-left:300px;
+	margin-top:-90px;
+}
+.sign1{
+	color:white;
+	font-size:16px;
+	margin-left:300px;
+	Opacity:70%;
+}
+
+.img1{
+padding:150px 20px 10px 100px;
+}
+.text3,.text4,.text5{
+margin-top:300px;
+margin-left:30px;
+text-align:justify;
+
+}
+.text3{
+	color:orange;
+	font-size:16px;
+	font-family:poppins,sans-serif;
+}
+.text4{
+	font-size:50px;
+	margin-top:30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color:white;
+}
+.text5{
+	font-size:14px;
+		margin-top:10px;
+		Opacity:80%;
+		color:white;
+}
+.banner2{
+		background-image:url(https://tse3.mm.bing.net/th?id=OIP.qAq11O_mk21ceKRBkcdCbgHaEK&pid=Api&P=0&h=180);
+	width:100%;
+height:120vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+box-sizing: border-box;
+Opacity:1.2;
+margin-top:-60px;
+	
+}
+.table{
+	display:flex;
+	justify-content:space-evenly;
+	padding:10px;
+
+	}
+.margin{
+	margin-left:170px;
+	margin-top:30px;
+	color:white;
+	Opacity:0.8;
+}
+.text6{
+	text-align:center;;
+	color:orange;
+	padding-top:20px;
+	font-size:18px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h3{
+	color:white;
+	padding-top:20px;
+	font-family:poppins,sans-serif;
+	font-size:20px;
+	Opacity:90%;
+}
+.alignment{
+	padding-top:50px;
+}
+.btn{
+	margin-left:300px;
+	padding:10px;
+	background-color:orange;
+	color:white;	
+}
+.text7{
+	text-align:center;
+	color:white;
+	background-color:black;
+	padding-top:200px;
+}
+.text50{
+	font-size:20px;
+	font-family:poppins,sans-serif;
+	color:orange;
+}
+.text51{
+	font-size:50px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	padding-top:30px;
+}
+.text52{
+	opacity:90%;
+	font-size:16px;
+	padding:30px;
+}
+
+/*part3*/
+.table1{
+	display:flex;
+	justify-content:space-evenly;
+	padding-bottom:200px;
+}
+.tab:hover{
+	transform:rotate(5deg);
+}
+.banner3{
+	background-color:black;
+}
+p{
+	color:white;
+	}
+.banner4{
+	background-color:black;
+	display:flex;
+}
+.text8{
+	color:white;
+font-size:26px;
+padding-left:50px;
+padding-top:300px;
+font-family:poppins,sans-serif;
+}
+.fix{
+	margin-top:-60px;
+	padding-bottom:50px;
+}
+.bgm{
+	background-image:url(https://img.freepik.com/free-photo/back-view-crowd-fans-watching-live-concert-performance-4_1562-630.jpg?w=740&t=st=1711771291~exp=1711771891~hmac=1fde65f39904b66d3eda20d65a0dceb382b00f0a4b7e6bcdd8af3f45fe95f3af);
+	background-repeat:no-repeat;
+	background-size:cover;
+	Opacity:0.9;
+}
+
+.grids{
+	display:flex;
+	justify-content:center;
+	background-color:black;
+	padding-bottom:100px;
+}
+.photo1{
+	padding:10px 10px 10px 10px;
+}
+.photo1:hover{
+	padding:10px 10px 10px 10px;
+	transform:scale(0.8);
+}
+
+.part1{
+	background-color:black;
+}
+.part2{
+	display:flex;
+	justify-content:space-evenly;
+	color:white;
+	margin-left:100px;
+	margin-right:100px;
+	background-color:#242124;
+}
+.text10{
+	font-size:14px;
+	padding-bottom:20px;
+	Opacity:0.8;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.text11{
+	padding-top:20px;
+	font-size:30px;
+	font-family:poppins, sans-serif;
+}
+	.btn1{
+		padding-top:60px;
+			margin:50px -20px 15px 100px;
+	padding:10px 20px 10px 20px;
+	background-color:orange;
+	color:white;
+	}
+	.btn1:hover{
+		padding-top:60px;
+			margin:50px -20px 15px 100px;
+	padding:10px 20px 10px 20px;
+	background-color:white;
+	color:white;
+	}
+
+
+.banner5{
+	display:flex;
+	justify-content:space-between;
+	text-align:justify;
+	padding:100px 20px 10px 20px;
+	background-color:black;
+}
+.image5{
+	background-image:url(https://kit.baliniz.com/stonegate/wp-content/uploads/sites/49/elementor/thumbs/guitarist-playing-in-a-concert-e1670428602856-pytif250t09nr2kzicrf3y91morj87iedklboylowo.jpg);
+width:300px;
+height:500px;
+background-size:cover;
+}
+.image6{
+	background-image:url(https://img.freepik.com/free-photo/vocalist-guitarist-stage_23-2148751626.jpg?t=st=1711821437~exp=1711825037~hmac=e9897b22e7634b941909d2cd6662851e120287a4e3f138f707afa8c149b1b0c4&w=740);
+width:300px;
+height:500px;
+background-size:cover;
+}
+.image7{
+	background-image:url(http://www.musictech.net/wp-content/uploads/2018/01/iStock-502088147.png);
+width:300px;
+height:500px;
+background-size:cover;
+}
+.image8{
+	background-image:url(https://img.freepik.com/premium-photo/man-playing-guitar_1129294-3.jpg?w=360);
+width:300px;
+height:500px;
+background-size:cover;
+}
+.image5,.image6,.image7,.image8{
+	padding:5px 5px 5px 5px;
+}
+
+.image5:hover{
+	background-image:url(https://kit.baliniz.com/stonegate/wp-content/uploads/sites/49/elementor/thumbs/guitarist-playing-in-a-concert-e1670428602856-pytif250t09nr2kzicrf3y91morj87iedklboylowo.jpg);
+width:300px;
+height:500px;
+background-size:cover;
+transform:scale(1.05);
+}
+.image6:hover{
+	background-image:url(https://img.freepik.com/free-photo/vocalist-guitarist-stage_23-2148751626.jpg?t=st=1711821437~exp=1711825037~hmac=e9897b22e7634b941909d2cd6662851e120287a4e3f138f707afa8c149b1b0c4&w=740);
+width:300px;
+height:500px;
+background-size:cover;
+transform:scale(1.05);
+}
+.image7:hover{
+	background-image:url(http://www.musictech.net/wp-content/uploads/2018/01/iStock-502088147.png);
+width:300px;
+height:500px;
+background-size:cover;
+transform:scale(1.05);
+}
+.image8:hover{
+	background-image:url(https://img.freepik.com/premium-photo/man-playing-guitar_1129294-3.jpg?w=360);
+width:300px;
+height:500px;
+background-size:cover;
+transform:scale(1.05);
+}
+
+
+.table1{
+    display: flex;
+    text-align: justify;
+    justify-content: space-evenly;
+	padding:20px 40px 80px 40px;
+	color:white;
+	background-color:black;
+	font-family:poppins,sans-serif;
+}
+
+.text54{
+	font-size:14px;
+	font-family:poppins, sans-serif;
+	color:orange;
+	padding:5px;
+}
+.text55{
+	font-size:18px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:white;
+	padding:5px;
+}
+
+.text16{
+	color:white;
+	font-size:20px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;font-family:
+}
+input{
+	width:300%;
+	padding:30px;
+	border-radius:2px;
+	border:none;
+	background-color:white;
+	color:black;
+	margin
+}
+
+input:focus{
+	outline:none;
+	box-shadow:0 0 8px #bbb;
+}
+.box-align{
+	background-color:black
+}
+.box-align1{
+	background-image:url(https://img.freepik.com/free-photo/back-view-crowd-fans-watching-live-concert-performance-4_1562-630.jpg?w=740&t=st=1711771291~exp=1711771891~hmac=1fde65f39904b66d3eda20d65a0dceb382b00f0a4b7e6bcdd8af3f45fe95f3af);
+	background-repeat:no-repeat;
+	background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+box-sizing: border-box;
+}
+
+.box-align2{
+	display:flex;
+	justify-content:space-evenly;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.btn3{
+	margin:18px -20px 15px 200px;
+	padding:10px 20px 10px 20px;
+	background-color:orange;
+	color:white;
+}
+	.btn3:hover{
+	margin:18px -20px 15px 200px;
+	padding:10px 20px 10px 20px;
+	background-color:white;
+	color:white;
+}
+
+/*footer starts*/
+footer{
+	background-color:black;
+}
+.foot{
+	display:flex;
+	justify-content:space-evenly;
+	padding-top:100px;
+	padding-bottom:100px;
+	text-decoration:none;
+	list-style:none;
+	color:white;
+}
+ul>li{
+	list-style:none;
+	text-decoration:none;
+}
+ul>li>h3>a{
+	color:white;
+}
+
+ul>li>h4{
+	padding:10px;
+}
+ul>li>h4>a{
+	font-size:14px;
+	Opacity:80%;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+color:white;
+}
+ul>li>h4>a:hover{
+	font-size:14px;
+	Opacity:80%;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+color:orange;
+}
+
+.social>li{
+	list-style:none;
+	text-decoration:none;
+	font-size:14px;
+	Opacity:80%;
+	padding:10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.social>li>h4>a{
+	color:white;
+}
+.social>li>h4>a:hover{
+	color:orange;
+}
+
+.margin1{
+	margin-left:120px;
+	color:white;
+	Opacity:50%;
+}
+.end{
+	display:flex;
+	justify-content:space-evenly;
+	color:white;
+	padding:20px;
+	Opacity:80%;
+}
+.end-list>ul>li{
+	text-decoration:none;
+	list-style:none;
+	justify-content:space-evenly;
+	padding-left:20px;
+padding-right:20px;
+}
+.end-list>ul{
+	display:flex;
+}
+.para{
+	font-size:16px;
+	Opacity:80%;
+}
+
+/*footer ends*/
